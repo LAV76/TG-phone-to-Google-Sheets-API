@@ -93,7 +93,6 @@ The ID of your Google Sheet can be found in the URL of the sheet. Here’s a ste
 ### Option 1: Run Locally
 Start the bot by running the following command:
 ```bash
-BOT_TOKEN="your_bot_token"
 python bot.py
 ```
 The bot will start polling for updates and respond to user messages.
